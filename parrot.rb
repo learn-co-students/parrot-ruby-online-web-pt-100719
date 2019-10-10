@@ -1,5 +1,5 @@
 def change_my_name
-  name = "Frank"
+  name = "parrot"
   puts name.reverse
-  return name
+  return "Squawk!"
 end
