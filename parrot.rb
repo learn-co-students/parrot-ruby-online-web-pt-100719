@@ -1,5 +1,5 @@
-def change_my_name
-  name = "parrot"
+def #parrot
+  name = "Squawk!"
   puts name.reverse
   return "Squawk!"
 end
