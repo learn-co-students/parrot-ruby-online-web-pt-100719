@@ -1,3 +1,5 @@
-def #parrot
-puts "Squawk!"
+def parrot
+  puts "Squawk!"
 end
+
+parrot = "Squawk
